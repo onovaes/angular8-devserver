@@ -1,0 +1,10 @@
+### Paths #################################################
+
+# Caminho com os scripts da sua APP
+APP_CODE_PATH_HOST=~/Documents/Sites/myapp-code/
+
+
+### VARNISH ###############################################
+NG_SERVE_PORT=4200
+
+
